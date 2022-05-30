@@ -21,6 +21,12 @@
  3. Send the JAR to your victim and somehow make them run it.
 
 <br>
+ 
+ # TODO
+  1. More grabbers in general
+  2. Some sort of debug logging through webhooks to identify any errors
+ 
+ <br>
 
 # Author
 - **9pvp**
