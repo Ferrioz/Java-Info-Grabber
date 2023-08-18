@@ -29,6 +29,5 @@
  <br>
 
 # Author
-- **9pvp**
-    - [Github](https://github.com/9pvp)
-    - [Website](https://www.9ware.cc)
+- **Ferrioz**
+    - [Github](https://github.com/Ferrioz)
